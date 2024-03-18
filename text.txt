@@ -1,0 +1,3 @@
+ini adalah bagian kedua dari materi.
+alias video lanjutan dari git remote.
+dengan judul baru: git remote branch.
